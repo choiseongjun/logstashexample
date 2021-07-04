@@ -1,0 +1,208 @@
+22:01:32.813 [restartedMain] INFO  c.e.demo.LogstashTestApplication - Starting LogstashTestApplication using Java 1.8.0_291 on choeseongjun-ui-MacBookPro.local with PID 5863 (/Users/choeseongjun/eclipse-workspace/logstashTest/bin/main started by choeseongjun in /Users/choeseongjun/eclipse-workspace/logstashTest)
+22:01:32.813 [restartedMain] INFO  c.e.demo.LogstashTestApplication - No active profile set, falling back to default profiles: default
+22:01:32.902 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+22:01:32.902 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+22:01:32.902 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+22:01:32.903 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.48]
+22:01:32.906 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+22:01:32.907 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 92 ms
+22:01:32.911 [restartedMain] INFO  o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - Autowired annotation should only be used on methods with parameters: public java.lang.String com.example.demo.PersonController.getAll()
+22:01:32.911 [restartedMain] INFO  com.example.demo.PersonController - info -- Hello world.
+22:01:32.912 [restartedMain] WARN  com.example.demo.PersonController - warn -- Hello world.
+22:01:32.912 [restartedMain] ERROR com.example.demo.PersonController - error -- Hello world.
+22:01:32.950 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+22:01:32.954 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+22:01:32.956 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+22:01:32.959 [restartedMain] INFO  c.e.demo.LogstashTestApplication - Started LogstashTestApplication in 0.189 seconds (JVM running for 69.507)
+22:01:32.960 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+22:01:36.914 [RMI TCP Connection(9)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+22:01:38.429 [restartedMain] INFO  c.e.demo.LogstashTestApplication - Starting LogstashTestApplication using Java 1.8.0_291 on choeseongjun-ui-MacBookPro.local with PID 5885 (/Users/choeseongjun/eclipse-workspace/logstashTest/bin/main started by choeseongjun in /Users/choeseongjun/eclipse-workspace/logstashTest)
+22:01:38.430 [restartedMain] INFO  c.e.demo.LogstashTestApplication - No active profile set, falling back to default profiles: default
+22:01:38.461 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+22:01:38.461 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+22:01:39.013 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+22:01:39.020 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+22:01:39.021 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+22:01:39.021 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.48]
+22:01:39.058 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+22:01:39.059 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 598 ms
+22:01:39.095 [restartedMain] INFO  o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - Autowired annotation should only be used on methods with parameters: public java.lang.String com.example.demo.PersonController.getAll()
+22:01:39.097 [restartedMain] INFO  com.example.demo.PersonController - info -- Hello world.
+22:01:39.097 [restartedMain] WARN  com.example.demo.PersonController - warn -- Hello world.
+22:01:39.097 [restartedMain] ERROR com.example.demo.PersonController - error -- Hello world.
+22:01:39.295 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+22:01:39.321 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+22:01:39.348 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+22:01:39.356 [restartedMain] INFO  c.e.demo.LogstashTestApplication - Started LogstashTestApplication in 1.212 seconds (JVM running for 1.923)
+22:01:49.308 [http-nio-8080-exec-2] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+22:01:49.309 [http-nio-8080-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+22:01:49.311 [http-nio-8080-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+22:01:49.335 [http-nio-8080-exec-2] INFO  com.example.demo.PersonController - info -- Hello world.
+22:01:49.335 [http-nio-8080-exec-2] WARN  com.example.demo.PersonController - warn -- Hello world.
+22:01:49.335 [http-nio-8080-exec-2] ERROR com.example.demo.PersonController - error -- Hello world.
+22:03:25.351 [http-nio-8080-exec-5] INFO  com.example.demo.PersonController - info -- Hello world.
+22:03:25.352 [http-nio-8080-exec-5] WARN  com.example.demo.PersonController - warn -- Hello world.
+22:03:25.352 [http-nio-8080-exec-5] ERROR com.example.demo.PersonController - error -- Hello world.
+22:04:04.774 [RMI TCP Connection(12)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+22:04:06.431 [restartedMain] INFO  c.e.demo.LogstashTestApplication - Starting LogstashTestApplication using Java 1.8.0_291 on choeseongjun-ui-MacBookPro.local with PID 5934 (/Users/choeseongjun/eclipse-workspace/logstashTest/bin/main started by choeseongjun in /Users/choeseongjun/eclipse-workspace/logstashTest)
+22:04:06.433 [restartedMain] INFO  c.e.demo.LogstashTestApplication - No active profile set, falling back to default profiles: default
+22:04:06.463 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+22:04:06.464 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+22:04:07.042 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+22:04:07.049 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+22:04:07.050 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+22:04:07.050 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.48]
+22:04:07.088 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+22:04:07.088 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 624 ms
+22:04:07.124 [restartedMain] INFO  o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - Autowired annotation should only be used on methods with parameters: public java.lang.String com.example.demo.PersonController.getAll()
+22:04:07.126 [restartedMain] INFO  com.example.demo.PersonController - info -- Hello world.
+22:04:07.126 [restartedMain] WARN  com.example.demo.PersonController - warn -- Hello world.
+22:04:07.126 [restartedMain] ERROR com.example.demo.PersonController - error -- Hello world.
+22:04:07.328 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+22:04:07.338 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+22:04:07.357 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+22:04:07.374 [restartedMain] INFO  c.e.demo.LogstashTestApplication - Started LogstashTestApplication in 1.233 seconds (JVM running for 2.086)
+22:04:14.255 [http-nio-8080-exec-2] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+22:04:14.255 [http-nio-8080-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+22:04:14.256 [http-nio-8080-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+22:04:14.275 [http-nio-8080-exec-2] INFO  com.example.demo.PersonController - info -- Hello world.
+22:04:14.276 [http-nio-8080-exec-2] WARN  com.example.demo.PersonController - warn -- Hello world.
+22:04:14.276 [http-nio-8080-exec-2] ERROR com.example.demo.PersonController - error -- Hello world.
+22:04:14.694 [http-nio-8080-exec-3] INFO  com.example.demo.PersonController - info -- Hello world.
+22:04:14.694 [http-nio-8080-exec-3] WARN  com.example.demo.PersonController - warn -- Hello world.
+22:04:14.694 [http-nio-8080-exec-3] ERROR com.example.demo.PersonController - error -- Hello world.
+22:06:53.993 [restartedMain] INFO  c.e.demo.LogstashTestApplication - Starting LogstashTestApplication using Java 1.8.0_291 on choeseongjun-ui-MacBookPro.local with PID 5934 (/Users/choeseongjun/eclipse-workspace/logstashTest/bin/main started by choeseongjun in /Users/choeseongjun/eclipse-workspace/logstashTest)
+22:06:53.993 [restartedMain] INFO  c.e.demo.LogstashTestApplication - No active profile set, falling back to default profiles: default
+22:06:54.108 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+22:06:54.109 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+22:06:54.127 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+22:06:54.127 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.48]
+22:06:54.174 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+22:06:54.191 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 196 ms
+22:06:54.199 [restartedMain] INFO  o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - Autowired annotation should only be used on methods with parameters: public java.lang.String com.example.demo.PersonController.getAll()
+22:06:54.201 [restartedMain] INFO  com.example.demo.PersonController - 이건 찍어둘까
+22:06:54.201 [restartedMain] WARN  com.example.demo.PersonController - 좀 불안한데
+22:06:54.201 [restartedMain] ERROR com.example.demo.PersonController - 에라잇
+22:06:54.258 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+22:06:54.283 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+22:06:54.297 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+22:06:54.318 [restartedMain] INFO  c.e.demo.LogstashTestApplication - Started LogstashTestApplication in 0.564 seconds (JVM running for 169.036)
+22:06:54.334 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+22:07:07.415 [http-nio-8080-exec-2] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+22:07:07.416 [http-nio-8080-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+22:07:07.416 [http-nio-8080-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+22:07:07.417 [http-nio-8080-exec-2] INFO  com.example.demo.PersonController - 이건 찍어둘까
+22:07:07.417 [http-nio-8080-exec-2] WARN  com.example.demo.PersonController - 좀 불안한데
+22:07:07.418 [http-nio-8080-exec-2] ERROR com.example.demo.PersonController - 에라잇
+22:18:59.832 [restartedMain] INFO  c.e.demo.LogstashTestApplication - Starting LogstashTestApplication using Java 1.8.0_291 on choeseongjun-ui-MacBookPro.local with PID 5934 (/Users/choeseongjun/eclipse-workspace/logstashTest/bin/main started by choeseongjun in /Users/choeseongjun/eclipse-workspace/logstashTest)
+22:18:59.833 [restartedMain] INFO  c.e.demo.LogstashTestApplication - No active profile set, falling back to default profiles: default
+22:18:59.959 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+22:18:59.960 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+22:18:59.960 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+22:18:59.960 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.48]
+22:18:59.965 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+22:18:59.965 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 130 ms
+22:18:59.969 [restartedMain] INFO  o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - Autowired annotation should only be used on methods with parameters: public java.lang.String com.example.demo.PersonController.getAll()
+22:18:59.971 [restartedMain] INFO  com.example.demo.PersonController - log3
+22:18:59.971 [restartedMain] WARN  com.example.demo.PersonController - log4
+22:18:59.971 [restartedMain] ERROR com.example.demo.PersonController - log5
+22:19:00.014 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+22:19:00.019 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+22:19:00.020 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+22:19:00.023 [restartedMain] INFO  c.e.demo.LogstashTestApplication - Started LogstashTestApplication in 0.429 seconds (JVM running for 894.772)
+22:19:00.025 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+22:19:03.076 [http-nio-8080-exec-2] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+22:19:03.077 [http-nio-8080-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+22:19:03.078 [http-nio-8080-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+22:19:03.079 [http-nio-8080-exec-2] INFO  com.example.demo.PersonController - log3
+22:19:03.079 [http-nio-8080-exec-2] WARN  com.example.demo.PersonController - log4
+22:19:03.079 [http-nio-8080-exec-2] ERROR com.example.demo.PersonController - log5
+22:19:03.477 [http-nio-8080-exec-3] INFO  com.example.demo.PersonController - log3
+22:19:03.478 [http-nio-8080-exec-3] WARN  com.example.demo.PersonController - log4
+22:19:03.478 [http-nio-8080-exec-3] ERROR com.example.demo.PersonController - log5
+22:19:03.862 [http-nio-8080-exec-4] INFO  com.example.demo.PersonController - log3
+22:19:03.862 [http-nio-8080-exec-4] WARN  com.example.demo.PersonController - log4
+22:19:03.862 [http-nio-8080-exec-4] ERROR com.example.demo.PersonController - log5
+22:19:14.717 [http-nio-8080-exec-5] INFO  com.example.demo.PersonController - log3
+22:19:14.717 [http-nio-8080-exec-5] WARN  com.example.demo.PersonController - log4
+22:19:14.717 [http-nio-8080-exec-5] ERROR com.example.demo.PersonController - log5
+22:19:16.658 [http-nio-8080-exec-6] INFO  com.example.demo.PersonController - log3
+22:19:16.659 [http-nio-8080-exec-6] WARN  com.example.demo.PersonController - log4
+22:19:16.659 [http-nio-8080-exec-6] ERROR com.example.demo.PersonController - log5
+22:19:17.072 [http-nio-8080-exec-7] INFO  com.example.demo.PersonController - log3
+22:19:17.072 [http-nio-8080-exec-7] WARN  com.example.demo.PersonController - log4
+22:19:17.072 [http-nio-8080-exec-7] ERROR com.example.demo.PersonController - log5
+22:31:29.674 [http-nio-8080-exec-10] INFO  com.example.demo.PersonController - log3
+22:31:29.678 [http-nio-8080-exec-10] WARN  com.example.demo.PersonController - log4
+22:31:29.678 [http-nio-8080-exec-10] ERROR com.example.demo.PersonController - log5
+22:31:29.957 [http-nio-8080-exec-1] INFO  com.example.demo.PersonController - log3
+22:31:29.957 [http-nio-8080-exec-1] WARN  com.example.demo.PersonController - log4
+22:31:29.957 [http-nio-8080-exec-1] ERROR com.example.demo.PersonController - log5
+22:31:39.030 [RMI TCP Connection(43)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+22:31:41.385 [restartedMain] INFO  c.e.demo.LogstashTestApplication - Starting LogstashTestApplication using Java 1.8.0_291 on choeseongjun-ui-MacBookPro.local with PID 6389 (/Users/choeseongjun/eclipse-workspace/logstashTest/bin/main started by choeseongjun in /Users/choeseongjun/eclipse-workspace/logstashTest)
+22:31:41.386 [restartedMain] INFO  c.e.demo.LogstashTestApplication - No active profile set, falling back to default profiles: default
+22:31:41.419 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+22:31:41.419 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+22:31:41.979 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+22:31:41.986 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+22:31:41.987 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+22:31:41.987 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.48]
+22:31:42.027 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+22:31:42.027 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 608 ms
+22:31:42.062 [restartedMain] INFO  o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - Autowired annotation should only be used on methods with parameters: public java.lang.String com.example.demo.PersonController.getAll()
+22:31:42.064 [restartedMain] INFO  com.example.demo.PersonController - log3
+22:31:42.064 [restartedMain] WARN  com.example.demo.PersonController - log4
+22:31:42.064 [restartedMain] ERROR com.example.demo.PersonController - log5
+22:31:42.292 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+22:31:42.302 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+22:31:42.320 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+22:31:42.328 [restartedMain] INFO  c.e.demo.LogstashTestApplication - Started LogstashTestApplication in 1.267 seconds (JVM running for 2.118)
+22:31:59.675 [http-nio-8080-exec-2] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+22:31:59.676 [http-nio-8080-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+22:31:59.677 [http-nio-8080-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+22:31:59.694 [http-nio-8080-exec-2] INFO  com.example.demo.PersonController - log3
+22:31:59.695 [http-nio-8080-exec-2] WARN  com.example.demo.PersonController - log4
+22:31:59.695 [http-nio-8080-exec-2] ERROR com.example.demo.PersonController - log5
+22:31:59.948 [http-nio-8080-exec-3] INFO  com.example.demo.PersonController - log3
+22:31:59.948 [http-nio-8080-exec-3] WARN  com.example.demo.PersonController - log4
+22:31:59.948 [http-nio-8080-exec-3] ERROR com.example.demo.PersonController - log5
+22:34:24.966 [restartedMain] INFO  c.e.demo.LogstashTestApplication - Starting LogstashTestApplication using Java 1.8.0_291 on choeseongjun-ui-MacBookPro.local with PID 6389 (/Users/choeseongjun/eclipse-workspace/logstashTest/bin/main started by choeseongjun in /Users/choeseongjun/eclipse-workspace/logstashTest)
+22:34:24.966 [restartedMain] INFO  c.e.demo.LogstashTestApplication - No active profile set, falling back to default profiles: default
+22:34:25.074 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+22:34:25.075 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+22:34:25.075 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+22:34:25.075 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.48]
+22:34:25.079 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+22:34:25.079 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 111 ms
+22:34:25.084 [restartedMain] INFO  o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - Autowired annotation should only be used on methods with parameters: public java.lang.String com.example.demo.PersonController.getAll()
+22:34:25.085 [restartedMain] INFO  com.example.demo.PersonController - log3
+22:34:25.085 [restartedMain] WARN  com.example.demo.PersonController - log4
+22:34:25.085 [restartedMain] ERROR com.example.demo.PersonController - 가즈아!!
+22:34:25.128 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+22:34:25.133 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+22:34:25.134 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+22:34:25.137 [restartedMain] INFO  c.e.demo.LogstashTestApplication - Started LogstashTestApplication in 0.358 seconds (JVM running for 164.927)
+22:34:25.139 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+22:34:30.149 [http-nio-8080-exec-2] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+22:34:30.149 [http-nio-8080-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+22:34:30.150 [http-nio-8080-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+22:34:30.151 [http-nio-8080-exec-2] INFO  com.example.demo.PersonController - log3
+22:34:30.151 [http-nio-8080-exec-2] WARN  com.example.demo.PersonController - log4
+22:34:30.151 [http-nio-8080-exec-2] ERROR com.example.demo.PersonController - 가즈아!!
+22:36:16.309 [restartedMain] INFO  c.e.demo.LogstashTestApplication - Starting LogstashTestApplication using Java 1.8.0_291 on choeseongjun-ui-MacBookPro.local with PID 6389 (/Users/choeseongjun/eclipse-workspace/logstashTest/bin/main started by choeseongjun in /Users/choeseongjun/eclipse-workspace/logstashTest)
+22:36:16.310 [restartedMain] INFO  c.e.demo.LogstashTestApplication - No active profile set, falling back to default profiles: default
+22:36:16.427 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+22:36:16.457 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+22:36:16.457 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+22:36:16.458 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.48]
+22:36:16.463 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+22:36:16.480 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 169 ms
+22:36:16.486 [restartedMain] INFO  o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - Autowired annotation should only be used on methods with parameters: public java.lang.String com.example.demo.PersonController.getAll()
+22:36:16.500 [restartedMain] INFO  com.example.demo.PersonController - log3
+22:36:16.519 [restartedMain] WARN  com.example.demo.PersonController - log4
+22:36:16.519 [restartedMain] ERROR com.example.demo.PersonController - log5!!
+22:36:16.561 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+22:36:16.580 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+22:36:16.596 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+22:36:16.615 [restartedMain] INFO  c.e.demo.LogstashTestApplication - Started LogstashTestApplication in 0.329 seconds (JVM running for 276.404)
+22:36:16.632 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
